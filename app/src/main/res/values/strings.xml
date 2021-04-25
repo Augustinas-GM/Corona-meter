@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Corona virus KITM</string>
+    <string name="app_title">Užsikrėtimų duomenys</string>
+
+    <string name="login_username">Slapyvardis</string>
+    <string name="login_password">Slaptažodis</string>
+    <string name="login_login">Prisijungti</string>
+    <string name="login_register">Registruotis</string>
+    <string name="login_remember_me">Prisiminti mane</string>
+    <string name="login_invalid_credentials">Neteisingas slapyvardis arba/ir slptažodis</string>
+
+    <string name="register_username">Slapyvardis</string>
+    <string name="register_email">El. paštas</string>
+    <string name="register_password">Slaptažodis</string>
+    <string name="register_register">Registruotis</string>
+    <string name="register_invalid_username">Slapyvardyje naudoti tik mažąsias ir/arba didžiąsias raides, negali turėti specialiūjų simbolių. Slapyvardis turi būti nuo 3 iki 10 simbolių.</string>
+    <string name="register_invalid_email">El. pašte naudoti mažąsias ir didžiąsias raides, skaičius, specialiuosius simbolius (@._-). El. paštas turi būti nuo 10 iki 50 simbolių.</string>
+    <string name="register_invalid_password">Slaptažodis gali turėti tik mažąsias ir didžiąsias raides, skaičius, specialiuosius simbolius (.!@_). Slaptažodis turi būti nuo 5 iki 20 simbolių</string>
+    <string name="search_loading_data">Prašome palaukti duomenų</string>
+    <string name="search_error_reading_data">Couldnt read data from API. For more information:</string>
+</resources>
+
+
+
+
